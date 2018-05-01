@@ -1,0 +1,20 @@
+html{
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+ }
+ .button-menu{
+ padding_right: 8px;
+ float: right;
+ margin: 15px;
+ margin-left: 75%;
+ color: green;
+ font-size: 15px;
+ }
+ .food-thumbnails{
+ padding_right: 8px;
+ float: right;
+ border-style: solid;
+ border-width: 3px;
+ border-color: green;
+ }
